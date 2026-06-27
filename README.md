@@ -127,9 +127,10 @@ This project delivers an end-to-end solution for lung cancer risk assessment:
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-👩‍💻 Author
+Author
 
-Marpini Himabindu
-B.Tech in Information Technology (2022–2026)
+Marpini Pavan Srikar
+B.Tech in Electronics and Communication Engineering(2024–2028)
+IIT (ISM) Dhanbad
 
 
